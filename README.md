@@ -9,4 +9,4 @@ Website has 3 Active windows:
 
 (each of those is a coded page with content) 
 
-Link to preview:  https://safei-ashraf.github.io/Responsive-Resturant-Site/index.html
+Link to preview: https://david-chus-china-bistro.netlify.com/
